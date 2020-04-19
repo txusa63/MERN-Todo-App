@@ -1,0 +1,16 @@
+.heading {
+    background: #333;    /* background color */
+    color: #fff;           /* text color */
+    text-align: center;    /**/
+    padding: 10px;        /* space around the content */
+    border-style: solid;
+    border-color: #333;
+    margin-top: 0px;
+    font-family: monospace;
+}
+
+.link {
+    color: #fff;
+    text-decoration: underline;
+
+}
